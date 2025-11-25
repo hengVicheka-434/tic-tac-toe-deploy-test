@@ -4,7 +4,7 @@
   "description": "Simple Tic-Tac-Toe teaching example with React 18",
   "scripts": {
     "start": "parcel public/index.html",
-    "build": "parcel build public/index.html",
+    "build": "parcel build public/index.html --public-url /tic-tac-toe-deploy-test/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
