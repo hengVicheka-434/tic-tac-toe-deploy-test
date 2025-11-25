@@ -1,6 +1,7 @@
 {
   "name": "tictactoe-react",
   "version": "1.0.0",
+  "homepage": "https://hengVicheka-434.github.io/tic-tac-toe-deploy-test",
   "description": "Simple Tic-Tac-Toe teaching example with React 18",
   "scripts": {
     "start": "parcel public/index.html",
@@ -23,6 +24,5 @@
     "gh-pages": "^6.3.0",
     "parcel": "^2.10.0",
     "process": "^0.11.10"
-  },
-  "homepage": "https://hengVicheka-434.github.io/tic-tac-toe-deploy-test"
+  }
 }
